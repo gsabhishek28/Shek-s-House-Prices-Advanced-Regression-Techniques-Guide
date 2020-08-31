@@ -16,8 +16,8 @@ It is your job to predict the sales price for each house. For each Id in the tes
 
 # Skills you'll practice:
 
-Creative feature engineering 
-Advanced regression techniques like random forest and gradient boosting
+- Creative feature engineering 
+- Advanced regression techniques like random forest and gradient boosting
 
 # Metric
 
